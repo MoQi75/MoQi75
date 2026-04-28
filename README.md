@@ -97,7 +97,7 @@
 
 ## 联系方式
 
-- Email: 3230921023@stu.xaut.edu.cn
+- Email: 2247540826@qq.com
 - GitHub: [MoQi75](https://github.com/MoQi75)
 
 ---
